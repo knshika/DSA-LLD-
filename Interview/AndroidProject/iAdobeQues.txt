@@ -1,0 +1,630 @@
+Interview Questions
+Practice data science interview questions asked in actual interviews from top companies.
+Challenges
+Test your wit against other users and see how your skills compare.
+Takehomes
+Jumpstart your projects in a step-by-step fashion through takehomes from top tech companies.
+Mock Interviews
+Hone your interviewing skills with your peers with mock interview sessions.
+AI Interviewer
+Assess your technical and communication interview skills in an interview with AI Interviewer.
+Coaching
+Connect with our curated list of top industry professionals and ace your next data science interview!
+All Learning Paths
+Explore different learning paths to help you prepare for your next interview.
+
+Data Structures and Algorithms Interview
+Unlock the power of efficient computing with proper data organization and manipulation through basic algorithms.
+
+Data Science Interview
+Master the wide range of data science interview questions.
+
+Data Analytics Interview
+In this course we will learn how to tackle data analytics problems
+
+Data Engineering Interview
+Learn how to tackle data engineering job interviews.
+
+Product Metrics Interview
+Understand how to use product metrics and analytics to influence decisions
+
+Modeling & Machine Learning Interview
+Learn how to apply machine learning to influence business decisions
+
+SQL Interview
+Brush up on your SQL skills and learn advanced tips and tricks
+AI Interviewer
+Assess your technical and communication interview skills in an interview with AI Interviewer.
+Blog
+Keep up-to-date with industry trends and must-knows, or read interesting data science topics with Interview Query blogs.
+Company Interview Guides
+Read in-depth interview guides, know the interview process, or learn new interview tips for top data companies.
+Salaries
+View salaries based on location, company, and seniority.
+Job Board
+Find your next dream job on our data science job board.
+
+Top 22 Adobe Software Engineer Interview Questions + Guide in 2024
+
+Top 22 Adobe Software Engineer Interview Questions + Guide in 2024
+Written by
+IQ Team
+Reviewed by
+IQ Team
+Published August 8, 2024
+Estimated reading time: 29 minutes
+Back to Adobe
+
+
+Table of contents
+Introduction
+What is the Interview Process Like for the Software Engineer Role at Adobe?
+Commonly Asked Adobe Software Engineer Interview Questions
+How to Prepare for the Software Engineer Role at Adobe
+FAQs
+The Bottom Line
+
+Introduction
+More than 8 billion documents, among other things, were processed through Adobe Document Cloud in the last year alone.
+
+With user bases varying from individuals to Fortune 100 companies, the need for maintaining secure and efficient software interfaces emerges as the priority. Software Engineers over at Adobe design new products, implement new features, maintain functionalities, and ensure performance.
+
+In this article, we’ll go through the essential components of the Software Engineer interview at Adobe. This includes the interview process, a couple of Adobe software engineer interview questions, and a comprehensive tip to help you get started.
+
+What is the Interview Process Like for the Software Engineer Role at Adobe?
+Adobe’s interview process for the Software Engineer role typically involves several stages. Starting from submitting the application, you’ll go through an initial screening process, multiple technical and behavioral rounds, and an on-site interview. Your proficiency in several programming languages, database management systems, and algorithms will be thoroughly graded before allowing your candidacy.
+
+Here is a brief rundown of the overall interview:
+
+Submitting Your Application
+You’ll apply for the job through Adobe’s online application portal and other job boards. You’ll be asked to submit your resume, cover letter, and other required documents. This may include a link to your portfolio or GitHub profile showcasing your previous work and projects.
+
+Introductory Phone Interview
+A recruiter or HR representative conducts a preliminary phone interview. They will assess your background, experience, and interest in the role. They may also ask about your familiarity with Adobe’s products and technologies. Expect a few generic behavioral questions during this stage of the interview.
+
+Hiring Manager Interview
+If you move past the phone interview, you will have a more technical interview with the Hiring Manager, who will be your immediate boss if you get the job. They’ll delve deeper into your technical skills, discussing your programming language proficiency, experience with relevant technologies (e.g., Adobe Creative Cloud SDKs, Adobe Experience Cloud, etc.), and how you approach problem-solving.
+
+Technical and Take-Home Assessment
+After the hiring manager interview, you may be asked to complete technical assessments. This could involve coding exercises in languages like Java, Python, or JavaScript, focusing on algorithms, data structures, and software design principles. Additionally, you might receive a take-home assignment to showcase your ability to solve real-world problems or build a small application relevant to Adobe’s business.
+
+On-Site Interview
+If you perform well in the previous stages, you’ll be invited for an on-site interview. This typically includes multiple technical interviews with different team members. Expect coding challenges related to the role, system design discussions where you’ll be asked to design scalable and efficient solutions, and behavioral interviews to assess your teamwork and communication skills.
+
+Commonly Asked Adobe Software Engineer Interview Questions
+Adobe Software Engineer
+Average Software Engineer
+During the multiple stages of the interview, expect to be asked a few behavioral questions and a plethora of technical questions varying in topic and approach. We’ve discussed a few of them with ideal answers here that we’ve gathered from past interview candidates for the Software Engineer role at Adobe.
+
+1. What are the three biggest strengths and weaknesses you have identified in yourself?
+The interviewer will evaluate your self-awareness and how you perceive your abilities and areas for improvement as they relate to the role of a Software Engineer at Adobe.
+
+How to Answer
+
+Briefly mention three strengths that are relevant to the software engineering role at Adobe and three weaknesses that you are actively working on improving. Ensure that your strengths align with the requirements of the position and that your weaknesses demonstrate self-awareness and a willingness to grow.
+
+Example
+
+“My three biggest strengths include strong problem-solving skills, adaptability to new technologies, and effective communication skills. As a Software Engineer at Adobe, these strengths will enable me to tackle complex challenges, learn and implement new technologies efficiently, and effectively collaborate with team members to achieve project goals.
+
+Three weaknesses I have identified in myself are perfectionism, which sometimes leads to spending too much time on small details, a tendency to take on too much responsibility at once, and occasional difficulty in delegating tasks. However, I am actively working on improving my time management skills, learning to delegate more effectively, and maintaining a balance between striving for excellence and meeting deadlines.”
+
+2. What are you looking for in your next job at Adobe?
+Your motivation and alignment with the role and company culture at Adobe will be assessed through this question.
+
+How to Answer
+
+Express your interest in the specific challenges and opportunities offered by the role at Adobe, and highlight aspects of the company culture or values that resonate with you.
+
+Example
+
+“In my next job at Adobe, I am looking for an opportunity to work on innovative projects that allow me to leverage my skills in software development while also providing opportunities for continuous learning and growth. I am excited about the prospect of collaborating with talented teams and contributing to Adobe’s mission of empowering creativity through technology. Additionally, I am seeking a supportive and inclusive work environment that fosters collaboration and encourages employees to explore new ideas.”
+
+3. Tell me about a time when you exceeded expectations during a project. What did you do, and how did you accomplish it?
+This question evaluates your past performance and ability to deliver results beyond what was expected in a project setting, which is a skill often required when working for Adobe.
+
+How to Answer
+
+Provide a specific example from your experience where you successfully exceeded expectations on a project. Describe the situation, your actions, and the outcome, highlighting your contributions and the impact of your efforts.
+
+Example
+
+“During a recent project, I was tasked with leading the development of a new feature for our software product with a tight deadline. Recognizing the importance of the feature for our clients, I proactively gathered feedback from stakeholders and collaborated closely with the design and QA teams to ensure a thorough understanding of requirements and potential challenges. Despite encountering unexpected technical hurdles midway through the project, I rallied the team, organized regular brainstorming sessions to explore alternative solutions, and delegated tasks effectively to meet the deadline. As a result of our collective efforts, we not only delivered the feature on time but also received positive feedback from clients for its functionality and performance, exceeding expectations.”
+
+4. Tell me a time when your colleagues did not agree with your approach. What did you do to bring them into the conversation and address their concerns?
+With this question, you’ll be allowed to demonstrate your interpersonal skills and ability to handle disagreements or conflicts professionally at Adobe as a Software Engineer.
+
+How to Answer
+
+Describe a specific instance where your colleagues disagreed with your approach to a project. Explain how you facilitated open communication, addressed their concerns, and worked towards a resolution or compromise that aligned with project goals.
+
+Example
+
+“During a team project, my colleagues and I had differing opinions on the implementation approach for a critical feature. While I advocated for a more streamlined solution to meet tight deadlines, some team members preferred a more robust but time-consuming approach. To address their concerns and foster collaboration, I organized a team meeting to openly discuss our viewpoints and understand each other’s perspectives. Through active listening and respectful dialogue, we identified common ground and agreed to prioritize certain aspects of the feature while compromising on others. By acknowledging the validity of their concerns and involving them in the decision-making process, we ultimately reached a consensus that allowed us to move forward with a solution that satisfied both technical requirements and project deadlines.”
+
+5. How do you prioritize multiple deadlines? Additionally, how do you stay organized when you have multiple deadlines?
+Your time management and organizational skills, which are essential for success as an Adobe Software Engineer where you may be juggling multiple projects simultaneously, will be assessed through this question.
+
+How to Answer
+
+Explain your approach to prioritizing tasks and managing multiple deadlines effectively. Highlight any tools or strategies you use to stay organized and ensure the timely completion of deliverables.
+
+Example
+
+“When faced with multiple deadlines, I prioritize tasks based on their urgency and impact on project milestones. I start by breaking down each project into smaller, manageable tasks and create a timeline or schedule to allocate time for each task based on its priority. I regularly reassess my priorities and adjust my schedule as needed to accommodate changing deadlines or unexpected challenges. To stay organized, I rely on project management tools such as Jira or Trello to track tasks, set deadlines, and collaborate with team members. Additionally, I use techniques like time blocking and setting reminders to stay focused and ensure I allocate sufficient time to meet each deadline while maintaining quality standards. By staying proactive and organized, I am able to effectively manage multiple deadlines and deliver high-quality work on time.”
+
+6. Given two sorted lists, write a function to merge them into one sorted list.
+This question evaluates your ability to manipulate lists and perform basic sorting operations in Python. It assesses your understanding of list manipulation and sorting algorithms, which are essential skills for a software engineer at Adobe.
+
+Bonus: What’s the time complexity?
+
+Example:
+
+Input:
+
+list1 = [1,2,5]
+
+list2 = [2,4,6]
+Output:
+
+def merge_list(list1,list2) -> [1,2,2,4,5,6]
+How to Answer
+
+Begin by explaining the approach you would take to merge two sorted lists into one sorted list. Then, discuss the time complexity of your solution.
+
+Example
+
+“We will employ a technique with a time complexity of O(n1 + n2) and additional space usage of O(n1 + n2), where n1 and n2 denote the sizes of the lists being provided. The concept revolves around employing the merge function from merge sort.
+
+We’ll start by creating an empty list and two indexes, i and j. We’ll use these indexes to traverse each array in a while loop by comparing each element against each other in the arrays.
+
+For each loop, we’ll pick the smaller of the current elements in list1 and list2.”
+
+def merge_list(list1, list2): 
+    list3 = []
+    i = 0
+    j = 0
+  
+    # Traverse both lists
+    # If the current element of first list
+    # is smaller than the current element
+    # of the second list, then store the
+    # first list's value and increment the index 
+
+    while i < len(list1) and j < len(list2): 
+      
+        if list1[i] < list2[j]: 
+            list3.append(list1[i])
+            i = i + 1
+        else: 
+            list3.append(list2[j])
+            j = j + 1
+      
+  
+    # Store remaining elements of the first list
+    while i < len(list1): 
+        list3.append(list1[i])
+        i = i + 1
+  
+    # Store remaining elements of the second list
+    while j < len(list2): 
+        list3.append(list2[j])
+        j = j + 1
+
+    return list3
+
+7. You have an array of integers, nums of length n spanning 0 to n with one missing. Write a function missing_number that returns the missing number in the array.
+The interviewer will evaluate your understanding of array manipulation and basic algorithms required to work as a Software Engineer at Adobe.
+
+Note: Complexity of O(n) required.
+
+Example:
+
+Input:
+
+nums = [0,1,2,4,5]
+
+missing_number(nums) -> 3
+How to Answer
+
+Describe your approach to finding the missing number in the array nums while maintaining O(n) complexity.
+
+Example
+
+We can pass in the array and create a set that will hold each value in the input array. Then we create a for loop that will span the range from 0 to n, and look to see if each number is in the set we just created. If it isn’t, we return the missing number.
+
+def missing_number(nums):
+    num_set = set(nums)
+    n = len(nums) + 1
+    for number in range(n):
+        if number not in num_set:
+            return number 
+8. Given a string str, write a function perm_palindrome to determine whether there exists a permutation of str that is a palindrome.
+Your understanding of string manipulation and algorithmic thinking will be assessed with this question. It evaluates your ability to design an efficient algorithm for Adobe to solve a specific problem related to string manipulation and palindrome detection.
+
+Example:
+
+Input:
+
+str = 'cacerra'
+
+def perm_palindrome(str) -> True
+“cacerra” returns True since it can be rearranged to form “racecar” which is a palindrome.
+
+How to Answer
+
+Describe an approach to determine whether a permutation of the input string str can form a palindrome. The approach should have a time complexity requirement of O(n), where n is the length of the input string.
+
+Example
+
+“If we count up all the characters in our input string, at most one can have an odd count. That means that if we have more than one letter with an odd count, we can discount the string as not being a palindrome.”
+
+def perm_palindrome(str):
+    arr = [0] * 1000
+
+    num_odds = 0
+    for char in str:
+        i = ord(char)
+        arr[i] += 1
+
+        if arr[i] % 2 != 0:
+            num_odds += 1
+        else:
+            num_odds -= 1
+
+    return num_odds <= 1
+9. Given a dictionary with weights, write a function random_key that returns a key at random with a probability proportional to the weights.
+The interviewer at Adobe will evaluate your understanding of probability and algorithmic thinking. It assesses your ability to design an algorithm that selects a key from a dictionary with a probability proportional to its weight.
+
+Example 1:
+
+Input:
+
+weights = {'A': 1, 'B': 2}
+Output:
+
+random_key(weights) -> return A 1/3 of the time, B 2/3 of the time
+Example 2:
+
+Input:
+
+weights = {'A': 1, 'B': 1}
+Output:
+
+random_key(weights) -> return A 1/2  of the time, B 1/2  of the time
+How to Answer
+
+Describe an approach to select a key from the input dictionary with a probability proportional to its weight. The approach should have a time complexity requirement of O(n), where n is the number of keys in the dictionary.
+
+Example
+
+import random
+
+def random_key(weights):
+    total_sum = sum(weights.values())
+    random_num = random.uniform(0, total_sum)
+    cumulative_sum = 0
+    for key, weight in weights.items():
+        cumulative_sum += weight
+        if cumulative_sum >= random_num:
+            return key
+
+Test
+weights = {'A': 1, 'B': 2}
+
+print(random_key(weights))  # Output: 'B' with probability 2/3, 'A' with probability 1/3
+The time complexity of this solution is O(n) because it iterates through the dictionary weights once to calculate the total sum of weights and select a random key.
+
+10. Given a table of transactions and a table of users, write a query to determine if users tend to order more to their primary address versus other addresses.
+This question evaluates your understanding of SQL queries, database schema design, and data analysis, which are required skills for a Software Engineer at Adobe.
+
+Note: Return the percentage of transactions ordered to their home address as home_address_percent.
+
+Example:
+
+Input:
+
+transactions table:
+
+Columns	Type
+id	INTEGER
+user_id	INTEGER
+created_at	DATETIME
+shipping_address	VARCHAR
+users table:
+
+Columns	Type
+id	INTEGER
+name	VARCHAR
+address	VARCHAR
+Example Output:
+
+home_address_percent	0.76
+How to Answer
+
+Describe an SQL query that retrieves the percentage of transactions ordered to users’ primary addresses compared to other addresses. The query should join the transactions table with the users table and calculate the percentage of transactions for each user that are ordered to their primary address.
+
+Example
+
+“To determine the percentage of transactions ordered to users’ primary addresses compared to other addresses, I would write a SQL query that joins the transactions table with the users table on the user_id column. Then, I would use a conditional aggregation to count the number of transactions ordered to the primary address and other addresses for each user. Finally, I would calculate the percentage of transactions for each user that are ordered to the primary address.”
+
+SELECT
+ROUND( 
+SUM(CASE WHEN u.address = t.shipping_address THEN 1 END)
+/ COUNT(t.id)
+,2)  as home_address_percent
+FROM transactions as t
+JOIN users as u
+ON t.user_id = u.id
+11. How would you compare two images for similarity, considering factors like color, composition, and objects?
+Your ability to analyze and compare images in the context of software engineering would be assessed with this question. Consider factors like color, composition, and objects.
+
+How to Answer
+
+Discuss the use of computer vision techniques and algorithms like feature extraction, histogram comparison, and possibly deep learning approaches. Highlight the importance of feature normalization and similarity metrics like cosine similarity or Euclidean distance.
+
+Example
+
+“I would first preprocess the images by resizing them to a standard resolution and converting them to a common color space like RGB or LAB. Then, I would extract features using techniques like SIFT or SURF and compute histograms for color distribution. Next, I’d use algorithms such as k-nearest neighbors or cosine similarity to compare these feature vectors and determine their similarity based on factors like color distribution, composition, and presence of common objects.”
+
+12. Describe a data structure you’d use to represent a complex design element in an Adobe application.
+The interviewer at Adobe will assess your understanding of data structures in the context of complex design elements within Adobe applications with this question.
+
+How to Answer
+
+Discuss the use of hierarchical data structures like trees or directed acyclic graphs (DAGs) to represent complex design elements. Emphasize the need for efficient traversal and manipulation operations.
+
+Example
+
+“I would use a hierarchical data structure like a scene graph to represent complex design elements. Each node in the scene graph would correspond to a component or object in the design, and edges would represent parent-child relationships. This structure allows for efficient traversal and manipulation of design elements, supporting features like grouping, transformation, and layering.”
+
+13. Briefly explain how you’d automate data validation for a large Adobe product dataset.
+As a Software Engineer, you’ll be evaluated based on your approach to automating data validation for large Adobe product datasets.
+
+How to Answer
+
+Discuss the use of scripting languages like Python to automate data validation tasks, including data parsing, checking for inconsistencies or anomalies, and generating reports.
+
+Example
+
+“To automate data validation for a large Adobe product dataset, I would use Python along with libraries like Pandas for data manipulation and validation. I would write scripts to parse the dataset, check for missing values, outliers, or inconsistencies, and perform statistical analysis to ensure data quality. Additionally, I’d implement unit tests to validate data integrity and generate comprehensive reports summarizing validation results.”
+
+14. How would you use Python to visualize user engagement metrics for an Adobe app?
+The interviewer will assess your ability to visualize user engagement metrics for an Adobe app using Python through this question.
+
+How to Answer
+
+Describe the use of data visualization libraries like Matplotlib or Plotly in Python to create interactive and informative visualizations of user engagement metrics.
+
+Example
+
+“In Python, I would use Matplotlib to create various types of plots such as line plots, bar plots, and scatter plots to visualize user engagement metrics for an Adobe app. I would aggregate the metrics data, plot time series for user interactions over time, create histograms to analyze distribution, and generate heatmaps to visualize patterns of user activity. Additionally, I might use Plotly to create interactive plots with tooltips and zoom functionalities for more in-depth exploration of the data.”
+
+15. How would you optimize a query that retrieves user activity data across a large Adobe product user base?
+Your ability to optimize queries for retrieving user activity data across a large Adobe product user base will be evaluated with this question.
+
+How to Answer
+
+Discuss strategies such as indexing, query optimization techniques, and database tuning to improve query performance.
+
+Example
+
+“To optimize a query for retrieving user activity data across a large Adobe product user base, I would first analyze the database schema and identify key columns for indexing. I would use tools like query explain plans to understand query execution paths and identify bottlenecks. Additionally, I might consider denormalization or partitioning of data to reduce query complexity and improve performance. By optimizing indexes, rewriting queries to leverage index usage, and possibly caching frequently accessed data, I would aim to minimize query execution time and enhance overall system efficiency.”
+
+16. Briefly explain how you’d design a database schema for storing and managing user-generated content in an Adobe app.
+This question evaluates your ability to design a database schema tailored for storing and managing user-generated content within an Adobe application.
+
+How to Answer
+
+Outline the key entities, relationships, and attributes necessary for storing user-generated content effectively. Discuss considerations such as scalability, data integrity, and performance.
+
+Example
+
+“I would design a database schema with tables for users, content types, content metadata, and content storage. Each user would have a unique identifier linked to their uploaded content, which would include attributes like title, description, creation date, and file format. To optimize performance, I might implement sharding or partitioning strategies, utilize indexing for fast retrieval, and incorporate caching mechanisms for frequently accessed data.”
+
+17. Explain how you would design an algorithm to dynamically adjust the performance or UI elements of an Adobe application in real-time based on user behavior and system resources.
+With this question, your interviewer will evaluate your ability, as a Software Engineer, to design algorithms capable of dynamically adjusting performance or UI elements in an Adobe application based on user behavior and system resources in real time.
+
+How to Answer
+
+Describe how you would monitor user interactions and system metrics, and then explain how you would use this data to dynamically adjust performance or UI elements. Discuss algorithms for resource allocation, prioritization, and optimization.
+
+Example
+
+“I would design an algorithm that continuously monitors user interactions and system metrics, such as CPU and memory usage. Based on this data, the algorithm would dynamically adjust performance settings, such as rendering quality or background processes, to maintain optimal user experience without overwhelming system resources. I might implement techniques like feedback control loops or machine learning models to predict user behavior and preemptively adjust UI elements or functionality accordingly.”
+
+18. Describe an algorithm you could use to search for similar images within a large database based on their content, not just metadata.
+As a Software Engineer at Adobe, your ability to design algorithms that are capable of searching for similar images within a large database will be evaluated through this question.
+
+How to Answer
+
+Discuss techniques such as feature extraction, similarity measures, and indexing for efficient image content comparison. Emphasize scalability and accuracy considerations.
+
+Example
+
+“I would design an algorithm that extracts key visual features from images, such as color histograms or deep learning embeddings, to represent their content. Then, I would use similarity measures like cosine similarity or Euclidean distance to compare these features and identify similar images within the database. To handle large datasets efficiently, I might employ techniques like locality-sensitive hashing or inverted indexing to speed up the search process while ensuring accuracy.”
+
+19. Explain how you would design reusable and modular Python components for common tasks used across different Adobe products.
+Your interviewer will assess your ability to design reusable and modular Python components for common tasks across different Adobe products with this question.
+
+How to Answer
+
+Describe how you would structure Python components as reusable modules, emphasizing encapsulation, abstraction, and separation of concerns. Discuss strategies for versioning, documentation, and compatibility.
+
+Example
+
+“I would design Python components following the principles of modular programming, breaking down functionality into cohesive modules with clear interfaces. Each module would encapsulate a specific task, such as file handling, image processing, or data manipulation, making them easily reusable across different Adobe products. I would ensure proper documentation and version control to facilitate collaboration and maintain compatibility with evolving product requirements.”
+
+20. How would you handle a situation where you need to query or manipulate a very large dataset stored in a relational database used by an Adobe product?
+This question evaluates your approach to handling large datasets in a relational database within an Adobe product.
+
+How to Answer
+
+Discuss strategies such as data partitioning, indexing, query optimization, and distributed processing to handle large datasets efficiently while maintaining performance.
+
+Example
+
+“If faced with a very large dataset in a relational database used by an Adobe product, I would first analyze the data and query patterns to identify performance bottlenecks. Then, I would implement strategies like horizontal partitioning to distribute data across multiple servers, indexing frequently accessed columns for faster retrieval, and optimizing queries through techniques like query caching or precomputation of aggregates. Additionally, I might explore distributed database solutions or data sharding to further scale horizontally and handle growing data volumes effectively.”
+
+21. Write a query to forecast the budget for all projects and return a label of “overbudget” if it is over budget and “within budget” otherwise.
+Your understanding of SQL joins and aggregation will be assessed with this question. It evaluates your ability to design an efficient query for forecasting project budgets and determining whether projects are over budget or within budget based on employee salaries and project duration.
+
+Example:
+
+Input:
+
+employees table
+
+Column	Type
+id	INTEGER
+first_name	VARCHAR
+last_name	VARCHAR
+salary	INTEGER
+department_id	INTEGER
+projects table
+
+Column	Type
+id	INTEGER
+title	VARCHAR
+state_date	DATETIME
+end_date	DATETIME
+budget	INTEGER
+departments table
+
+Column	Type
+id	INTEGER
+name	VARCHAR
+employee_projects	table
+Column	Type
+project_id	INTEGER
+employee_id	INTEGER
+Output:
+
+Column	Type
+title	VARCHAR
+project_forecast	VARCHAR
+How to Answer
+
+Describe an approach to determine whether the projects are over budget by using SQL joins and aggregation functions. The approach should calculate the total prorated salaries of employees working on each project and compare it with the project budget.
+
+Example
+
+“To determine if a project is over budget, we need to calculate the total prorated salaries of all employees working on the project and compare it with the project budget. If the prorated salaries exceed the budget, the project is over budget; otherwise, it is within budget.”
+
+SELECT 
+    title
+    , CASE WHEN 
+        CAST(project_days AS DECIMAL)/365 * total_salary > budget 
+        THEN 'overbudget' ELSE 'within budget' 
+      END AS project_forecast
+FROM (
+    SELECT 
+          title
+        , DATEDIFF(end_date, start_date) AS project_days
+        , budget
+        , SUM(COALESCE(salary,0)) AS total_salary
+    FROM projects AS p
+    LEFT JOIN employee_projects AS ep
+        ON p.id = ep.project_id
+    LEFT JOIN employees AS e 
+        ON e.id = ep.employee_id
+    GROUP BY 1,2,3
+) AS temp
+22. Given a string, write a function to determine if it is palindrome or not.
+Your understanding of string manipulation and algorithmic thinking will be assessed with this question. It evaluates your ability to design an efficient algorithm to solve a specific problem related to string manipulation and palindrome detection.
+
+Example:
+
+Input:
+word1 = "tree"
+word2 = "radar"
+Output:
+def is_palindrome(word1) -> False
+def is_palindrome(word2) -> True
+How to Answer
+
+Describe an approach to determine whether the input string is a palindrome. The approach should have a time complexity requirement of O(n), where n is the length of the input string.
+
+Example
+
+“To check if a string is a palindrome, compare the characters from the start and end of the string moving towards the center. If any characters don’t match, the string is not a palindrome. Otherwise, it is.”
+
+def is_palindrome(word):
+    start_index = 0
+    end_index = len(word)-1
+    while start_index < end_index:
+        if word[start_index] != word[end_index]:
+            return False
+        start_index += 1
+        end_index -= 1
+    return True
+How to Prepare for the Software Engineer Role at Adobe
+Preparing for the Software Engineer role at Adobe involves a combination of technical skills, soft skills, and knowledge of the company’s products and culture.
+
+Here’s a comprehensive guide on how to prepare:
+
+Refine Your Technical Skills
+Adobe primarily uses languages like Python, Java, and C++ for software development. Algorithms and data structures also are essential technical skills to have as a Software Engineer. Server-side programming and database management may also be essential additions. Ensure you have a strong command of these skills before the technical interview.
+
+Our Python and SQL Learning Paths can be beneficial for you to learn about databases, algorithms, and particular languages.
+
+Be Prepared for the Interview Stages
+During the interview rounds, expect questions about your past experiences, how you handled challenges, and your approach to teamwork and problem-solving. Be prepared for technical interview questions that may include coding, system design discussions, debugging exercises, and algorithmic problems.
+
+Follow our interview questions and try to solve them to prepare better for the Software Engineer interview at Adobe.
+
+Develop Necessary Soft Skills
+Software engineering roles often involve problem-solving. Practice solving real-world problems and explaining your approach. Good communication skills are necessary for collaborating with team members and explaining your ideas clearly.
+
+Practice with other real-life candidates using our Mock Interviews to achieve greater confidence and fine-tune your answers.
+
+Familiarize Yourself With Adobe Technologies
+Research Adobe’s culture, values, recent projects, and any news or updates about the company. Tailor your answers to reflect your understanding of Adobe’s environment and refine your approach according to it.
+
+FAQs
+How much do Adobe Software Engineers make in a year?
+$150,800
+Average Base Salary
+
+$223,506
+Average Total Compensation
+
+The average base salary for a Software Engineer at Adobe is $150,800 based on 1,050 data points. Adjusting the average for more recent salary data points, the average recency weighted base salary is $152,115.
+The estimated average total compensation is $223,506 based on 726 data points. The average recency weighted total compensation is $225,793.
+View the full Software Engineer at Adobe salary guide
+
+The base paycheck for a Software Engineer at Adobe could range from $67K to $220K with an average pay of around $153K. The average total compensation ranges from $70K to $379K with average total compensation revolving around $223K.
+
+Also consider getting an insight into the industry-wide Software Engineer Salary guide.
+
+Where can I discuss Interview Experiences with other candidates for the Adobe Software Engineer role?
+Join our Slack channel to connect with fellow candidates and share experiences about the Adobe Software Engineer role. You may also get insight about the position and eligibility from the official job postings.
+
+Does Interview Query have job postings for the Adobe Software Engineer role?
+Yes, we have an updated Jobs Board to help you filter and find the relevant job posts according to your requirements. If you’re an employer, you may also post jobs through us.
+
+The Bottom Line
+Go through our main Adobe Interview Guide to learn about more career opportunities as a Business Analyst, Data Analyst, Machine Learning Engineer, and Research Scientist at Adobe.
+
+Preparing for the Adobe Software Engineer interview questions requires refinement of technical skills, curating your experience narratives, and refining your approach towards practical problems.
+
+Hopefully, you’ve found our list of interview questions for the role effective and impactful, and we wish you success in your interview!
+
+Position interview guides
+Adobe Business Analyst Interview Guide
+Adobe Business Intelligence Interview Guide
+Adobe Data Analyst Interview Questions + Guide 2024
+Adobe Growth Marketing Analyst Interview Guide
+Adobe Product Analyst Interview Guide
+Adobe Product Manager Interview Guide
+Adobe Research Scientist Interview Guide
+Top 20 Adobe Data Engineer Interview Questions + Guide in 2024
+Top 20 Adobe Data Scientist Interview Questions + Guide in 2024
+Top 22 Adobe Machine Learning Engineer Interview Questions + Guide in 2024
+Upgrade Your Prep
+Get our subscriber-only content. Dive Deeper, learn smarter, and make your interview prep count.
+
+
+
+
+
